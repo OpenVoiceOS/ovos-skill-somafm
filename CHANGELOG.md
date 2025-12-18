@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.6a2](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a2) (2025-12-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a1...0.1.6a2)
+
+**Closed issues:**
+
+- ModuleNotFoundError: No module named 'ovos\_classifiers' [\#24](https://github.com/OpenVoiceOS/ovos-skill-somafm/issues/24)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#25](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/25) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.6a1](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a1) (2025-01-25)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.5...0.1.6a1)
