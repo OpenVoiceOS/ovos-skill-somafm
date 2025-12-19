@@ -20,11 +20,11 @@ jobs:
   plugin_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: "3.10"
       - name: Install test dependencies
         run: |
           pip install pytest pytest-timeout pytest-cov
@@ -40,11 +40,11 @@ jobs:
   osm_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: "3.10"
       - name: Install ovos dependencies
         run: |
           pip install ovos-skills-manager~=0.0.10
@@ -57,11 +57,11 @@ jobs:
   msm_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: "3.10"
       - name: Install msm
         run: |
           pip install msm~=0.9.0
