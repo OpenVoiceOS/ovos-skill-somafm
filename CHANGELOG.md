@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.6a3](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a2...0.1.6a3)
+
+**Merged pull requests:**
+
+- Update actions/checkout action to v6 [\#31](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/31) ([renovate[bot]](https://github.com/apps/renovate))
+- Update pypa/gh-action-pip-audit action to v1.1.0 - autoclosed [\#30](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/30) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.6a2](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a2) (2025-12-18)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a1...0.1.6a2)
