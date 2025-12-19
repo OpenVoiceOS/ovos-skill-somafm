@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.6a5](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a5) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a4...0.1.6a5)
+
+**Merged pull requests:**
+
+- chore\(deps\): update pilosus/action-pip-license-checker action to v3 [\#34](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/34) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency python to 3.14 [\#26](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/26) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.6a4](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a4) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a3...0.1.6a4)
+
 ## [0.1.6a3](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a3) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a2...0.1.6a3)
