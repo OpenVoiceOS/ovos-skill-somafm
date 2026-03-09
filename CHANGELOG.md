@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.6a7](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a7) (2026-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a6...0.1.6a7)
+
+**Merged pull requests:**
+
+- Add French SomaFM locale [\#36](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/36) ([goldyfruit](https://github.com/goldyfruit))
+
+## [0.1.6a6](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a6) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a5...0.1.6a6)
+
 ## [0.1.6a5](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a5) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a4...0.1.6a5)
