@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.6a8](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a8) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a7...0.1.6a8)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#38](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/38) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#37](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/37) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.6a7](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a7) (2026-03-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a6...0.1.6a7)
@@ -37,10 +46,6 @@
 ## [0.1.6a2](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a2) (2025-12-18)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a1...0.1.6a2)
-
-**Closed issues:**
-
-- ModuleNotFoundError: No module named 'ovos\_classifiers' [\#24](https://github.com/OpenVoiceOS/ovos-skill-somafm/issues/24)
 
 **Merged pull requests:**
 
