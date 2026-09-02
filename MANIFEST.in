@@ -1,3 +1,4 @@
+include version.py
 recursive-include locale *
 recursive-include res *
 include README.md

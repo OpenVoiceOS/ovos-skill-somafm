@@ -1,12 +1,71 @@
 # Changelog
 
-## [0.1.5a1](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.5a1) (2024-12-02)
+## [0.1.6a9](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a9) (2026-09-02)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.4...0.1.5a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a8...0.1.6a9)
 
 **Merged pull requests:**
 
-- import basque translations [\#20](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/20) ([JarbasAl](https://github.com/JarbasAl))
+- docs: deprecation notice — superseded by MediaProvider plugins [\#40](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/40) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.6a8](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a8) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a7...0.1.6a8)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#38](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/38) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#37](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/37) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.6a7](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a7) (2026-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a6...0.1.6a7)
+
+**Merged pull requests:**
+
+- Add French SomaFM locale [\#36](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/36) ([goldyfruit](https://github.com/goldyfruit))
+
+## [0.1.6a6](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a6) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a5...0.1.6a6)
+
+## [0.1.6a5](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a5) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a4...0.1.6a5)
+
+**Merged pull requests:**
+
+- chore\(deps\): update pilosus/action-pip-license-checker action to v3 [\#34](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/34) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency python to 3.14 [\#26](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/26) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.6a4](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a4) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a3...0.1.6a4)
+
+## [0.1.6a3](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a2...0.1.6a3)
+
+**Merged pull requests:**
+
+- Update actions/checkout action to v6 [\#31](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/31) ([renovate[bot]](https://github.com/apps/renovate))
+- Update pypa/gh-action-pip-audit action to v1.1.0 - autoclosed [\#30](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/30) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.6a2](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a2) (2025-12-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a1...0.1.6a2)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#25](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/25) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.6a1](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a1) (2025-01-25)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.5...0.1.6a1)
+
+**Merged pull requests:**
+
+- fix automations [\#22](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/22) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
