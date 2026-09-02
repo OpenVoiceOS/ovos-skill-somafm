@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.6a9](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a9) (2026-09-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a8...0.1.6a9)
+
+**Merged pull requests:**
+
+- docs: deprecation notice — superseded by MediaProvider plugins [\#40](https://github.com/OpenVoiceOS/ovos-skill-somafm/pull/40) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.6a8](https://github.com/OpenVoiceOS/ovos-skill-somafm/tree/0.1.6a8) (2026-04-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-somafm/compare/0.1.6a7...0.1.6a8)
